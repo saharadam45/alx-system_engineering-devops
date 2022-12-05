@@ -1,1 +1,1 @@
-echo -e '#!/bin/bash\n echo "Hello,World">0-hell_world
+#!/bin/bash ls > 0-hello_world\n
