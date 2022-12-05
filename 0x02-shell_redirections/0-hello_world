@@ -1,3 +1,1 @@
-#!/bin/bash
-echo "Hello/n World" > 0-hello_world
-
+echo -e '#!/bin/bash\n echo "Hello,World">0-hell_world
